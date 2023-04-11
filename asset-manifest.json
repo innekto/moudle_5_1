@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moudle_5_1/static/css/main.7acaea2f.css",
+    "main.js": "/moudle_5_1/static/js/main.07d3183d.js",
+    "index.html": "/moudle_5_1/index.html",
+    "main.7acaea2f.css.map": "/moudle_5_1/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/moudle_5_1/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
